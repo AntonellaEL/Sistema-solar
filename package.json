@@ -1,0 +1,11 @@
+{
+  "name": "sistema-solar",
+  "version": "1.0.0",
+  "description": "Se requiere un programa que modele el concepto de un planeta del sistema solar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
